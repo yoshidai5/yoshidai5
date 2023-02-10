@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ＃＃初更新
-使い方よくわからないけど、とりあえずできた？
+＊使い方よくわからないけど、とりあえずできた？＊
