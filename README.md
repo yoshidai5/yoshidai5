@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+＃＃初更新
+<font color="Red">よくわからないけど、できてる？</font>
+
